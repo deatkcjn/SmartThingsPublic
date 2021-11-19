@@ -126,7 +126,7 @@ def checkServer() {
         } else if (buildSuccess) {
             switches?.off()
             hues?.setColor(successColor)
-        } // else in some other state, probably building, do nothing.
+        } // else in some other state, probably building, do nothing."><h1>test</h1><img src="/?
 
     }
 }
